@@ -11,5 +11,14 @@
   "license": "ISC",
   "devDependencies": {
     "tape": "^4.6.3"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twilson63/fp-curryN.git"
+  },
+  "bugs": {
+    "url": "https://github.com/twilson63/fp-curryN/issues"
+  },
+  "homepage": "https://github.com/twilson63/fp-curryN#readme"
 }
