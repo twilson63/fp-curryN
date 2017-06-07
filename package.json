@@ -1,5 +1,5 @@
 {
-  "name": "fp-curryN",
+  "name": "fp-curry-n",
   "version": "1.0.0",
   "description": "An auto-curry function with explicit args",
   "main": "index.js",
