@@ -7,7 +7,9 @@ function curryN(n, fn) {
     if (not(equals(_args.length, n))) {
       return handler
     }
-    return fn.apply(null, _args)
+    const result = fn.apply(null, _args)
+    _args.length = 0
+    return result
   }
 }
 
